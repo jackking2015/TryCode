@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\GitHub\TryCode\SpiderForJD\SpiderForJD\bin\Debug\SpiderForJD.exe.config
+C:\Users\Jack\Documents\GitHub\TryCode\SpiderForJD\SpiderForJD\bin\Debug\SpiderForJD.exe
+C:\Users\Jack\Documents\GitHub\TryCode\SpiderForJD\SpiderForJD\bin\Debug\SpiderForJD.pdb
+C:\Users\Jack\Documents\GitHub\TryCode\SpiderForJD\SpiderForJD\obj\Debug\SpiderForJD.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\TryCode\SpiderForJD\SpiderForJD\obj\Debug\SpiderForJD.exe
+C:\Users\Jack\Documents\GitHub\TryCode\SpiderForJD\SpiderForJD\obj\Debug\SpiderForJD.pdb
